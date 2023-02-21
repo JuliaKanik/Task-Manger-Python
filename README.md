@@ -4,9 +4,12 @@ Task Manager is a command-line application that helps you manage your daily task
 
 ## Table of contents
 
-Installation
-Usage
-Credits
+[Installation](https://github.com/JuliaKanik/finalCapstone/edit/main/README.md#installation)
+
+[Usage](https://github.com/JuliaKanik/finalCapstone/edit/main/README.md#usage)
+
+[Credits](https://github.com/JuliaKanik/finalCapstone/edit/main/README.md#credits)
+
 
 ## Installation
 To use Task Manager, you will need to have Python 3 installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
